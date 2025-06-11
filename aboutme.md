@@ -52,4 +52,4 @@ Previously worked with:
 
 You can download my resume here:
 
-<p><a href="/assets/files/Rakesh_Reddy_Resume.pdf" class="btn btn--primary">Download Resume</a></p>
+<p><a href="/assets/files/m_rakesh_reddy_resume.pdf" class="btn btn--primary">Download Resume</a></p>
