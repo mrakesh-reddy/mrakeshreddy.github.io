@@ -4,7 +4,7 @@ title: About Me
 subtitle: Engineer. Builder. Problem Solver.
 ---
 
-Hi, I'm **Rakesh Reddy**, a software engineer with a passion for building intelligent systems and solving real-world problems through automation and AI.
+Hi, I'm **Rakesh Reddy**, a machine learning engineer with a passion for building intelligent systems and solving real-world problems through automation and AI.
 
 ---
 
@@ -26,8 +26,9 @@ Hi, I'm **Rakesh Reddy**, a software engineer with a passion for building intell
 - Worked with various evaluation techniques including JSON-based task scoring, relevance ranking, and DOM-grounded validation
 
 Previously worked with:
-- **OPlus India** – Software Development
-- **Sunera Technologies** – Web Data Engineering
+- **OPlus India** – Chief Engineer
+- **Quantiphi India** – Senior Machine learning engineer
+- **Oracle India** – Analyst
 
 ---
 
@@ -50,6 +51,4 @@ Previously worked with:
 
 ### 📄 Resume
 
-You can download my resume here:
-
-<p><a href="/assets/files/m_rakesh_reddy_resume.pdf" class="btn btn--primary">Download Resume</a></p>
+📥 [Download my resume](/assets/files/m_rakesh_reddy_resume.pdf){: .btn .btn--primary }
