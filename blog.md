@@ -1,13 +1,4 @@
 ---
-layout: blog
-title: Blog
-permalink: /blog/
----
-
-Welcome to my blog! Here you'll find posts about AI agents, automation, and engineering insights.
-
-
----
 layout: post
 title: Flake it till you make it
 subtitle: Excerpt from Soulshaping by Jeff Brown
