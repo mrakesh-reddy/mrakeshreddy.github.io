@@ -18,6 +18,7 @@ url-pretty: "rakeshreddy.dev"  # Optional custom domain
 ###############################################
 
 navbar-links:
+  Home: "index"
   About Me: "aboutme"
   Projects: "projects"
   Resources:
