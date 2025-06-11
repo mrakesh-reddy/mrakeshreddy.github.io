@@ -9,11 +9,9 @@
 # --- Required options --- #
 ############################
 
-# Name of website
-title: My website
-
-# Your name to show in the footer
-author: Some Person
+title: Rakesh Reddy
+author: Rakesh Reddy
+url-pretty: "rakeshreddy.dev"  # Optional custom domain
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -21,10 +19,10 @@ author: Some Person
 
 navbar-links:
   About Me: "aboutme"
+  Projects: "projects"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -53,7 +51,7 @@ social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
-  github: daattali
+  github: mrakesh-reddy
   twitter: daattali
   patreon: DeanAttali
   youtube: "@daattali"
