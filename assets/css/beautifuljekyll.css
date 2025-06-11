@@ -27,11 +27,11 @@ layout: null
 /* --- General --- */
 
 html {
-  font-size: 100%
+  font-size: 100%;
 }
 
 body {
-  font-family: var(--body-font);
+  font-family: var(--body-font), serif;
   font-size: 1.125rem;
   color: var(--text-col);
   position: relative;
@@ -45,50 +45,67 @@ body {
   display: flex;
   flex-direction: column;
 }
+
 body > main {
   flex: 1;
 }
+
 p {
   line-height: 1.5;
   margin: 1.875rem 0;
 }
-h1,h2,h3,h4,h5,h6 {
-  font-family: var(--header-font);
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--header-font), sans-serif;
   font-weight: 800;
   line-height: 1.1;
 }
+
 h1 {
   font-size: 2.25rem;
 }
+
 h2 {
   font-size: 1.875rem;
 }
+
 h3 {
   font-size: 1.5rem;
 }
+
 h4 {
   font-size: 1.125rem;
 }
+
 h1, h2, h3, h4 {
   margin-top: 1.25rem;
 }
+
 a {
   color: var(--link-col);
+  text-decoration: none;
 }
+
 a:hover,
 a:focus {
   color: var(--hover-col);
+  outline: 2px dashed var(--hover-col);
+  outline-offset: 2px;
 }
+
 blockquote {
   color: var(--mid-col);
   font-style: italic;
 }
+
 blockquote p:first-child {
   margin-top: 0;
 }
+
 .jumbotron {
   background: #EEE;
 }
+
 hr.small {
   max-width: 6.25rem;
   margin: 1rem auto;
@@ -97,8 +114,8 @@ hr.small {
   border-radius: 0.1875rem;
 }
 
-/* fix in-page anchors to not be behind fixed header */
-:target:before {
+/* Fix in-page anchors to not be behind fixed header */
+:target::before {
   content: "";
   display: block;
   height: 3.125rem; /* navbar height */
@@ -109,20 +126,19 @@ hr.small {
   display: none;
 }
 
-::-moz-selection {
-  color: var(--page-col);
-  background-color: var(--hover-col);
-  text-shadow: none;
-}
 ::selection {
   color: var(--page-col);
   background-color: var(--hover-col);
   text-shadow: none;
 }
-img::selection {
-  color: var(--hover-col);
-  background: transparent;
+
+::-moz-selection {
+  color: var(--page-col);
+  background-color: var(--hover-col);
+  text-shadow: none;
 }
+
+img::selection,
 img::-moz-selection {
   color: var(--hover-col);
   background: transparent;
@@ -146,6 +162,21 @@ img {
 @media (min-width: 768px) {
   .disqus-comments {
     margin-top: 2.5rem;
+  }
+}
+
+/* Responsive typography adjustments for small screens */
+@media (max-width: 576px) {
+  h1 {
+    font-size: 1.75rem;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+
+  h3 {
+    font-size: 1.25rem;
   }
 }
 
