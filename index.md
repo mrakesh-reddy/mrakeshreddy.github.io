@@ -29,13 +29,13 @@ Welcome to my portfolio. I'm a software engineer specializing in:
 
 ### 📄 Resume
 
-📥 [Download my resume](/assets/resume.pdf){: .btn .btn--primary }
+📥 [Download my resume](/assets/files/m_rakesh_reddy_resume.pdf){: .btn .btn--primary }
 
 ---
 
 ### 📬 Get in Touch
 
-- 📧 Email: [you@example.com](mailto:you@example.com)  
-- 🐙 GitHub: [rakeshreddy-github-username](https://github.com/rakeshreddy-github-username)
+- 📧 Email: [m.rakeshreddy95@gmail.com](mailto:you@example.com)  
+- 🐙 GitHub: [mrakesh-reddy](https://github.com/mrakesh-reddy)
 
 ---
