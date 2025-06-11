@@ -1,15 +1,55 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Engineer. Builder. Problem Solver.
 ---
 
-My name is Rakesh reddy. I have the following qualities:
+Hi, I'm **Rakesh Reddy**, a software engineer with a passion for building intelligent systems and solving real-world problems through automation and AI.
 
-- I'm a adventure enthusiast
+---
 
-What else do you need?
+### 🔧 Technical Focus
 
-### My story
+- Designing browser-based web automation agents  
+- Prompt engineering and LLM evaluation strategies  
+- Building scalable, asynchronous data workflows  
+- Structuring modular and maintainable Python codebases  
+- Designing evaluation frameworks to validate LLM behavior across environments
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+---
+
+### 🧠 Projects & Experience
+
+- Architected multi-step reasoning agents that can extract insights from web pages using Playwright and LLMs  
+- Developed a code generation pipeline that plans solutions based on dataset metadata and schema  
+- Built a DOM-aware answer validation system to assess the completeness of information extracted from the web  
+- Worked with various evaluation techniques including JSON-based task scoring, relevance ranking, and DOM-grounded validation
+
+Previously worked with:
+- **OPlus India** – Software Development
+- **Sunera Technologies** – Web Data Engineering
+
+---
+
+### 📚 Skills
+
+- **Languages**: Python, JavaScript, HTML  
+- **Libraries & Tools**: Playwright, LangChain, OpenAI APIs, FastAPI, Pandas  
+- **DevOps**: Docker, GitHub Actions  
+- **Other**: Prompt design, dataset curation, performance tuning, debugging LLM behavior
+
+---
+
+### 🔍 Current Interests
+
+- Designing agent architectures that balance autonomy and control  
+- Creating clean, transparent planning pipelines for complex queries  
+- Improving user-LLM feedback loops with structured validation
+
+---
+
+### 📄 Resume
+
+You can download my resume here:
+
+<p><a href="/assets/files/Rakesh_Reddy_Resume.pdf" class="btn btn--primary">Download Resume</a></p>
