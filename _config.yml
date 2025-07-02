@@ -22,9 +22,7 @@ navbar-links:
   About Me: "aboutme"
   Projects: "projects"
   Blogs: "blog"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+  Write: "write"
 
 ################
 # --- Logo --- #
@@ -39,7 +37,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-title-img: "/assets/img/prof_pic.jpg'
+title-img: "/assets/img/prof_pic.jpg"
 
 
 #####################################
@@ -51,12 +49,12 @@ title-img: "/assets/img/prof_pic.jpg'
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
   email: "mrakeshreddy95@gmail.com"
-  github: mrakesh-reddy
+  github: "mrakesh-reddy"
   # youtube: "@daattali"
-  whatsapp: +91 9543143574
-  medium: yourname
+  whatsapp: "919543143574"
+  medium: "yourname"
 #  reddit: yourname or r/yoursubreddit
-  linkedin: rakeshreddy95
+  linkedin: "rakeshreddy95"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -70,8 +68,8 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  bluesky: yourname
-   ORCID: your ORCID ID
-   google-scholar: your google scholar
+  ORCID: "your ORCID ID"
+  google-scholar: "your google scholar"
 #  discord: "invite_code" or "users/userid" or "invite/invite_code"
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -288,4 +286,11 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
+
+excerpt_separator: "<!--more-->"
+site-css:
+  - "/assets/css/custom.css"
+  
+pagination:
+  enabled: false
 
