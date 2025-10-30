@@ -407,6 +407,14 @@ backToTopStyles.textContent = `
             width: 45px;
             height: 45px;
         }
+        
+        .theme-toggle {
+            bottom: 5rem;
+            right: 1.5rem;
+            width: 45px;
+            height: 45px;
+            font-size: 1rem;
+        }
     }
 `;
 document.head.appendChild(backToTopStyles);
