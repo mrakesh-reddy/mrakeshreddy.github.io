@@ -1,0 +1,12 @@
+# GitHub Pages - Static HTML Site
+# Custom Portfolio by Rakesh Reddy
+
+title: Rakesh Reddy - Machine Learning Engineer
+author: Rakesh Reddy
+description: Machine Learning Engineer passionate about building intelligent systems
+url: "https://mrakesh-reddy.github.io"
+
+exclude:
+  - README.md
+  - LICENSE
+  - SETUP_GUIDE.md
